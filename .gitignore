@@ -1,0 +1,9 @@
+env/
+__pycache__/
+.env
+.pytest_cache/
+htmlcov/
+**/.DS_Store
+.coverage
+chromedriver
+node_modules/
